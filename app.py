@@ -3,7 +3,7 @@ import plotly.express as px
 import streamlit as st
 
 # Header
-st.title('Análisis de vehículos usados')
+st.title('Análisis de vehículos usados por Luis Galván')
 
 # Cargar los datos
 try:
